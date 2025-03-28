@@ -1,0 +1,6 @@
+cloud-support:
+  type: cloudnet4
+  name-rank-colors: true
+  start-new-service: true
+  set-ingame: true
+  reset-to-lobby: true
